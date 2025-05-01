@@ -2,6 +2,8 @@
 
 A simple graphical user interface for converting Word, Excel, and PDF files to Markdown using the Microsoft MarkItDown library.
 
+![Application Screenshot](screenshot.png)
+
 ## About This Project
 
 This project is a GUI wrapper for the [Microsoft MarkItDown](https://github.com/microsoft/markitdown) library. It provides an easy-to-use interface for converting various document formats to Markdown without requiring command-line knowledge. The application was developed to simplify the process of converting multiple files and saving them to a destination directory of your choice.
